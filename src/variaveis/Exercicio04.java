@@ -9,6 +9,7 @@ public class Exercicio04 {
         double salasComDecimal = (double) totalAlunos / alunosPorSala;
 
         System.out.println(salasComDecimal);
+        System.out.println(salasNecessarias);
 
     }
 }
