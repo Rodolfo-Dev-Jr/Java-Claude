@@ -22,7 +22,8 @@ public class Exercicio03 {
             System.out.println("Aprovado, precisa fazer prova final!");
         } else if(nota <5) {
             System.out.println("Reprovado por nota!");
+            
         }
 
-    }
+    } 
 }
